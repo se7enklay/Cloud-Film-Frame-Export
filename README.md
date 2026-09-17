@@ -4,7 +4,8 @@
 
 一个 Tampermonkey 用户脚本。适用场景：平台的阅片器没有可用的导出功能 —— 自带的「下载」按钮被隐藏，整份打包接口点击后报「获取数据失败」。
 
-![合成体模三窗位预览](samples/preview.png)
+![Uploading preview.png…]()
+
 
 > 上图是仓库内的**合成 CT 体模**（由 `tools/make_sample.py` 现场生成），不是真实患者影像。本仓库不包含任何真实病例数据。
 

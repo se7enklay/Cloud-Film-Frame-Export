@@ -1,0 +1,9 @@
+# 默认按文本处理并统一为 LF —— 避免 Windows 的 CRLF 污染用户脚本
+* text=auto eol=lf
+
+# 二进制文件不要动
+*.dcm  binary
+*.raw  binary
+*.png  binary
+*.ico  binary
+*.jp2  binary
